@@ -1,0 +1,12 @@
+feature,importance
+ApplicantIncome,0.873372483280964
+Credit_History,0.10689944602987735
+Property_Area,0.009852216748768001
+CoapplicantIncome,0.007397654930994961
+LoanAmount,0.0024781990093438932
+Gender,5.177893290010681e-14
+Married,0.0
+Dependents,0.0
+Education,0.0
+Self_Employed,0.0
+Loan_Amount_Term,0.0
